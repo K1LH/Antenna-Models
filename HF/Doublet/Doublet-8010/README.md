@@ -5,7 +5,7 @@ G5RV and ZS6BKW are doublets - just with specific lengths of wire and feeder, in
 
 Prior to coax the open wire balanced feeder was directly connected to the tank circuit in vacuum tube amplifiers. Due to the low loss of high impedance balanced line (typically 450 to 600 Ω) the losses from high SWR on the line were not a concern.
 
-In my opinion this is one of the best multi-band horizontal (and [vertical](https://github.com/K1LH/Antenna-Models/tree/main/HF/Verticals/Doublet-4010)) antennas there is due to simplicity, ability to operate on any frequency with minimal trade-off and good efficiency.
+In my opinion this is one of the best multi-band horizontal (and [vertical](https://github.com/K1LH/Antenna-Models/tree/main/HF/Vertical/Doublet-4010)) antennas there is due to simplicity, ability to operate on any frequency with minimal trade-off and good efficiency.
 
 There are several ways to feed a doublet using modern rigs with 50 Ω coaxial output.
 - Route balanced line into the shack to a balanced tuner or matching network
